@@ -1,0 +1,1 @@
+Program ini digunakan untuk menghitung penjumlahan 2 matriks, jadi pengguna diminta untuk menambahkan jumlah kolom dan baris serta isi dari kedua matriks, lalu di bagian perulangan program menjumlahkan elemen dari posisi yang sama di kedua matriks dan hasilnya disimpan di matriks hasil, dan kemudian hasilnya akan ditampilkan dilayar pengguna
